@@ -1,0 +1,28 @@
+name: Invite on label
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  invite:
+    if: github.event.label.name == 'invite-to-org'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Invite issue author to Vibe Motion
+        uses: vj-abigo/invite-on-label@6c8d39e8e79900c27737e8da5b212fb946d6b2d1
+        with:
+          organization: vibe-motion
+          label: invite-to-org
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          comment: |
+            已发送 Vibe Motion 组织邀请。请检查你的 GitHub 通知或注册邮箱，并接受邀请。
+          existingMemberMessage: |
+            你已经是 Vibe Motion 组织成员了。
+        env:
+          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
