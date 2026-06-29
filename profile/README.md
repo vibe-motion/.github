@@ -6,9 +6,10 @@ Vibe Motion 专注于用代码创作动画、动态图形和视频。
 
 ## 快速开始
 
-### 0. 根据 SRT 全自动生成视频画面
+### 0. 根据 srt 字幕文件全自动生成视频画面
 
 [`vibe-motion/auto-motion`](https://github.com/vibe-motion/auto-motion) 是一个自动视频生成工作流：提供 `transcription.srt`，然后让 Codex 执行 `PROMPT.md`，自动拆分镜头、调用 Claude Code 制作 MG 动画，并拼接生成 `final.mp4`。
+（目前仅支持hyperframes，后续可能会支持remotion或者我改进的vibe-motion)
 
 ```bash
 codex exec \
