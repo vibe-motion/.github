@@ -57,7 +57,7 @@ npx skills add vibe-motion/skills
 ## join vibe-motion dev team
 
 1. 点击 [提交加入申请](https://github.com/vibe-motion/.github/issues/new?title=%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5%20Vibe%20Motion&body=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%8A%A0%E5%85%A5%20Vibe%20Motion%20%E7%BB%84%E7%BB%87%E3%80%82%0A%0A%E6%88%91%E7%9A%84%20GitHub%20%E8%B4%A6%E5%8F%B7%EF%BC%9A%40%0A%0A%E6%88%91%E6%84%9F%E5%85%B4%E8%B6%A3%E7%9A%84%E6%96%B9%E5%90%91%20/%20%E6%83%B3%E5%81%9A%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%9A%0A)，填写你的 GitHub 账号、感兴趣的方向或想参与的内容，然后创建 Issue。
-2. 等待维护者审核并添加 `invite-to-org` 标签。
+2. 等待维护者审核并添加 `invite-to-org` 标签(好像github没给我推送邮件，可以加我微信主动催我加tag）。
 3. GitHub Actions 会自动发送组织邀请、留言并关闭 Issue。
 4. 在 GitHub 通知或注册邮箱中接受邀请，即可加入 Vibe Motion。
 
