@@ -6,7 +6,21 @@ Vibe Motion 专注于用代码创作动画、动态图形和视频。
 
 ## 快速开始
 
-### 2D 动画
+### 0. 根据 SRT 全自动生成视频画面
+
+[`vibe-motion/auto-motion`](https://github.com/vibe-motion/auto-motion) 是一个自动视频生成工作流：提供 `transcription.srt`，然后让 Codex 执行 `PROMPT.md`，自动拆分镜头、调用 Claude Code 制作 MG 动画，并拼接生成 `final.mp4`。
+
+```bash
+codex exec \
+  --cd . \
+  --sandbox danger-full-access \
+  --ask-for-approval never \
+  - < PROMPT.md
+```
+
+[查看 `auto-motion` 仓库](https://github.com/vibe-motion/auto-motion)
+
+### 1. 2D 动画 -> 手动 vibe coding 2D 动画
 
 基于 [Remotion](https://www.remotion.dev/) 的程序化视频与动态图形脚手架。
 
@@ -16,7 +30,7 @@ npm create vibe-motion@latest my-app
 
 [查看 `create-vibe-motion` 仓库](https://github.com/vibe-motion/create-vibe-motion)
 
-### 3D 动画
+### 2. 3D 动画 -> 手动 vibe coding 3D 动画
 
 基于 [Three.js](https://threejs.org/) 和 [Puppeteer](https://pptr.dev/) 的 3D 动画脚手架，用于确定性地渲染和导出帧序列。
 
