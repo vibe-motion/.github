@@ -64,3 +64,6 @@
 ## 更多
 
 - [官方网站](https://vibe-motion.github.io/)
+- 进飞书交流群：
+
+  <img src="./feishugroup.png" alt="飞书交流群二维码" width="240" />
