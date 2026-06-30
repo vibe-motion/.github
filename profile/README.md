@@ -2,8 +2,6 @@
 
 > Prompts → code → motion graphics.
 
-Vibe Motion 专注于用代码创作动画、动态图形和视频。
-
 ## 快速开始
 
 1. ### 根据 srt 字幕文件全自动生成视频画面
