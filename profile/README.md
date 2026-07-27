@@ -90,6 +90,16 @@ Skill 同时附带一套可编辑 Remotion 镜头库，目前包含 **63 个可�
 镜头不是不可编辑的视频模板。每个系统都保留源码、Props、构图逻辑和转换契约，可按品牌、
 画幅、数据与语义重新组合。
 
+<p align="center">
+  <a href="./assets/code-motion-shot-library-preview.mp4">
+    <img src="./assets/code-motion-shot-library-preview.gif" width="760" alt="Vibe Motion 可编辑镜头库动态预览" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>点击镜头墙播放：Prompt → Agent、产品网格、玻璃仪表盘、工作流爆炸图、知识世界与霓虹路径</strong>
+</p>
+
 ### 安装并使用
 
 ```bash
@@ -153,4 +163,3 @@ npm create vibe-motion-3d@latest my-app
 - 飞书交流群：
 
 <img src="./feishugroup.png" alt="飞书交流群二维码" width="240" />
-
