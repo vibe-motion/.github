@@ -67,3 +67,7 @@
 - 进飞书交流群：
 
   <img src="./feishugroup.png" alt="飞书交流群二维码" width="240" />
+
+- 进微信交流群：
+
+  <img src="./wechatgroup.jpg" alt="微信交流群二维码" width="240" />
