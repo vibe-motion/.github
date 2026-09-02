@@ -68,6 +68,6 @@
 
   <img src="./feishugroup.png" alt="飞书交流群二维码" width="240" />
 
-- 进微信交流群 2 群：
+- 进微信交流群 2 群（猫学妹会拉你进群）：
 
   <img src="./wechatgroup.jpg" alt="微信交流群 2 群二维码" width="240" />
