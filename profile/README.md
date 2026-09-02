@@ -64,10 +64,10 @@
 ## 更多
 
 - [官方网站](https://vibe-motion.github.io/)
+- 进微信交流群（猫学妹会拉你进群）：
+
+  <img src="./wechatgroup.jpg" alt="微信交流群二维码" width="240" />
+
 - 进飞书交流群：
 
   <img src="./feishugroup.png" alt="飞书交流群二维码" width="240" />
-
-- 进微信交流群 2 群（猫学妹会拉你进群）：
-
-  <img src="./wechatgroup.jpg" alt="微信交流群 2 群二维码" width="240" />
