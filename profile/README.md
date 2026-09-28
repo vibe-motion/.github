@@ -1,3 +1,15 @@
+# [Motion Face ↗](https://motionface.cc)
+
+**一人复刻，万人共享。** 在 Motion Face 发现、分享动效片段，将社区已复刻的动效代码 remix 成自己的内容。
+
+<a href="https://motionface.cc">
+  <img src="https://raw.githubusercontent.com/vibe-motion/.github/main/profile/motionface.webp" alt="Motion Face：从动效代码到你的标题、配色和内容" width="640" />
+</a>
+
+**[访问 motionface.cc →](https://motionface.cc)**
+
+---
+
 # 欢迎来到 Vibe Motion 👋
 
 > Prompts → code → motion graphics.
@@ -63,7 +75,7 @@
 
 ## 更多
 
-- [官方网站](https://vibe-motion.github.io/)
+- [官方网站](https://motionface.cc)
 - 进微信交流群（猫学妹会拉你进群）：
 
   <img src="./wechatgroup.jpg" alt="微信交流群二维码" width="240" />
